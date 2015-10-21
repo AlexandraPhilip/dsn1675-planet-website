@@ -1,0 +1,38 @@
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+header {
+  background-color: grey;
+}
+
+body {
+  margin: 0;
+}
+
+.gutter {
+
+}
+
+.img-flex {
+  width: 100%;
+  display: inline-block;
+}
+
+nav {
+  display: inline-block;
+}
+
+ol {
+  display: inline-block;
+}
+
+li {
+  text-decoration: none;
+  list-style: none;
+}
