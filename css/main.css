@@ -16,7 +16,7 @@ body {
 }
 
 .gutter {
-
+  padding: 1rem;
 }
 
 .img-flex {
@@ -35,4 +35,5 @@ ol {
 li {
   text-decoration: none;
   list-style: none;
+  display: inline-block;
 }
